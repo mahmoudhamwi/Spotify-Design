@@ -1,0 +1,32 @@
+.primary_color{
+    -fx-background-color: #181818;
+}
+
+.secondary-color{
+    -fx-background-color: #121212;
+}
+
+.selected{
+    -fx-border-color: #1ED760;
+    -fx-border-width: 0 0 0 5
+}
+
+.top-border{
+    -fx-border-color: #A1A1A1;
+    -fx-border-width: 1 0 0 0;
+}
+
+.search-container{
+    -fx-background-color: #fff;
+    -fx-background-radius: 100;
+}
+
+.upgrade-button{
+    -fx-background-color: rgba(0,0,0,0);
+    -fx-border-color: #fff;
+    -fx-border-radius: 50;
+}
+
+.scroll-pane > .viewport{
+    -fx-background-color: #181818;
+}
